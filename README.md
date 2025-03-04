@@ -1,7 +1,7 @@
 
 # Modulo para polybar
 
-![volamp](volamp.png)
+![volamp](https://github.com/firstatack/polybar_volamp/blob/main/volam.png?raw=true)
 
 ### Requisitos:
 
